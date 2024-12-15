@@ -23,7 +23,7 @@
 <h2 align="center">I code in</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,python,c,java,mysql,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,python,c,java,mysql" /><br>
 </div>
 
 <br/>
