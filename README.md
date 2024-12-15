@@ -13,7 +13,7 @@
 ✨ Let's Connect 
 
 <div align="center"> 
-  <a href="shifahashim6@gmail.com">
+  <a href="mailto:pedro.sales.shifahashim6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/shifa-mol-kh-870909256/" target="_blank">
