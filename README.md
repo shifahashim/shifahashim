@@ -5,5 +5,6 @@
  🌟 About Me
 - 🌏 **From**: India 🇮🇳  
 - 🎓 **Currently Studying**: Computer Engineering  
-- 💻 **Passionate About**: Exploring and mastering new technologies in software development  
+- 💻 **Passionate About**: Exploring and mastering new technologies in software development
+
   
