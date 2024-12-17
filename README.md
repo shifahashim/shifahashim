@@ -31,7 +31,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=shifahashim&" alt="shifahashim" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifahashim&" alt="shifahashim" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=shifahashim&show_icons=true&locale=en" alt="shifahashim" />
   <br/>
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifahashim&show_icons=true&locale=en&layout=compact" alt="shifahashim" />
